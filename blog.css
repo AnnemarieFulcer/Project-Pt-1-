@@ -6,8 +6,8 @@
 }
 
 .blog-header-logo {
-    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
-    font-size: 2.25rem;
+    font-family: "French Script MT";
+    font-size: 350%;
 }
 
 .blog-header-logo:hover {
@@ -15,7 +15,7 @@
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-family: "French Script MT";
 }
 
 .display-4 {
@@ -32,6 +32,8 @@ h1, h2, h3, h4, h5, h6 {
     z-index: 2;
     height: 2.75rem;
     overflow-y: hidden;
+    font-family: "French Script MT";
+    font-size: 150%;
 }
 
 .nav-scroller .nav {
@@ -128,4 +130,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 .blog-footer p:last-child {
     margin-bottom: 0;
+}
+div
+.centerdiv{
+    text-align: center;
+}
+.rightdiv{
+    text-align: right;
+    font-family: "French Script MT";
+    font-weight: bold;
+    font-size: 150%;
+}
+h4, h2, h1{
+    font-family: "French Script MT";
+
 }
