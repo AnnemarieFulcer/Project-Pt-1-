@@ -6,7 +6,7 @@
 }
 
 .blog-header-logo {
-    font-family: "French Script MT";
+    font-family: "Harrington";
     font-size: 350%;
 }
 
@@ -15,7 +15,7 @@
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "French Script MT";
+    font-family: "Harrington";
 }
 
 .display-4 {
@@ -32,8 +32,8 @@ h1, h2, h3, h4, h5, h6 {
     z-index: 2;
     height: 2.75rem;
     overflow-y: hidden;
-    font-family: "French Script MT";
-    font-size: 150%;
+    font-family: "Harrington";
+    font-size: 120%;
 }
 
 .nav-scroller .nav {
@@ -137,11 +137,11 @@ div
 }
 .rightdiv{
     text-align: right;
-    font-family: "French Script MT";
+    font-family: "Harrington";
     font-weight: bold;
     font-size: 150%;
 }
 h4, h2, h1{
-    font-family: "French Script MT";
+    font-family: "Harrington";
 
 }
